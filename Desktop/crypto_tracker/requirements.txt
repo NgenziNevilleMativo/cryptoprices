@@ -1,0 +1,7 @@
+coinbase-python
+kafka-python
+pandas
+influxdb-client
+python-dotenv
+requests
+flask
